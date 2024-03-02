@@ -17,3 +17,6 @@ Students are encouraged to explore other IDEs, as there is no requirement to use
 - 6 point for exercises
 - 6 point for final exam
 ### 2 extra points will be given for in-class activities and collectable extra points are also introduced with optional activities during semester.
+
+## Additional Resources
+- [git course](https://faradars.org/courses/fvgit9609-git-github-gitlab)
