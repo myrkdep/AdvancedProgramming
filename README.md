@@ -5,10 +5,8 @@ A repository for the Advanced Programming course to store all related informatio
 Students should submit their exercises on the LMS by the deadline.  
 Exercises submitted after the deadline will have a 20% penalty and can't be submitted after class is started. Everyone should present their code in class.  
 Grades will be submitted to this repository one week after the class and will be visible to the entire class. All answers including my own version will be available in this repo after submission of grades.
-### Grades will not be changed after submission.
 
 ## Class Information
-Students should attend their own class. For any exceptions, students should coordinate with me.  
 "IntelliJ IDEA Community Edition" is the designated IDE for this course due to its preinstallation on workshop systems.  
 Students are encouraged to explore other IDEs, as there is no requirement to use IntelliJ exclusively.
 
