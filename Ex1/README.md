@@ -27,6 +27,7 @@ Both bubble sort and binary search should be implemented as functions.
 
 ## Ex0-5:
 This exercise will be completed in the class next session.  
-Make a class named Contact. This class should have a name and phoneNumber.  
-For reasons that I will discuss in class, phoneNumber should be a string and not an int.  
+Make a class named Contact. This class should have a name.  
 Your class should have the toString method implemented so it can be printed inside the main function using print.
+Make a PhoneContact and EmailContact that inherit Contact class.
+toString should be implement using super.
