@@ -6,9 +6,10 @@ In the main class the program is run in an infinite loop an should have these op
 - Add Document
 - Add Paper
 - Add Book
-- Print Books
+- Print All
 - Show number of added books
 
+There should be and id that takes track of all the added things and also a sub id that takes track of each class individually.  
 Document only has a name, Paper adds an authors, Book adds an ISBN(International Standard Book Number).  
 Your program should handle addign multiple authors so keep that in mind in your design.  
 Books can have ISBN-10 and ISBN-13. Your program should handle both cases and ISBN should be checked according to formula.  
