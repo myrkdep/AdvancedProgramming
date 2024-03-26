@@ -1,5 +1,5 @@
 # Exercise 2: Library Management System
-### Thess exercises aim to make you comfortable with almost all OOP principles in action.
+### This exercises aim to make you comfortable with almost all OOP principles in action.
 
 ## Excersie Explanation:
 In the main class the program is run in an infinite loop an should have these options:  
