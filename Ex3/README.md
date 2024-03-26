@@ -8,7 +8,8 @@ Your program should run in an infinite loop and provide the following options:
 - Withdraw
 - Transfer
 - Generate Account Statement
-- Proceed to Next Month  
+- Proceed to Next Month
+
 Each customer should have a unique identifier. Accounts should be savings or checking, and each account should have its own unique identifier.
 
 ## Implementation should include OOP principles such as constructors, overloading, static methods, and more.
