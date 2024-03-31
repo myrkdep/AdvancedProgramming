@@ -95,3 +95,6 @@ Description for every assignment if needed
 
 ### Mohhammad Fakhrai: 100, 80, -, 100, -
 - Ex2 :In the 'typeDefine' method, it's defined to return the type of triangle as a string instead of directly printing it.
+
+### Mohammad Hadi Amiran: 100, 100, -, 100, -
+- Well Done
