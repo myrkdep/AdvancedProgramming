@@ -92,3 +92,6 @@ Description for every assignment if needed
 
 ### Abdul Aziz Halimi: 100 , 70 , - , 100 , - 
 - Ex3 : Incomplete implementation with logic errors, lacking string return for triangle type and inconsistent output messages.
+
+### Mohhammad Fakhrai: 100, 80, -, 100, -
+- Ex2 :In the 'typeDefine' method, it's defined to return the type of triangle as a string instead of directly printing it.
