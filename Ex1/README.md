@@ -70,7 +70,7 @@ Description for every assignment if needed
 ### Nikta Pournabi :   100 , 100 , - , 100 , -  
 - WELL DONE
 
-### Reza Raeesi :   100 , score2 , - , 100 , - 
+### Reza Raeesi :   100 , 0 , - , 100 , - 
 - Ex4 : its better to use variables and its functions ( like arr.size() ) instead of just typing in numbers because for example in this question your code will only work with an array that has 10 values  
 
 ### Ali Peivaste :   100 , 100 , - , 100 , - 
