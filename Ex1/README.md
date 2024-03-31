@@ -36,6 +36,7 @@ toString should be implement using super.
 ### Schema
 name: score1, score2, score3, score4, score5  
 Description for every assignment if needed
+### Weights: 0.1, 0.7, 0.2
 ### Note: Removed 3rd exercise due to most of the class not understanding the problem. Exercise 5 has in class grades so no points are given for it here. 
 
 ### MaralFouladi: 100, 100, -, 100, - 
