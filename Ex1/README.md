@@ -113,8 +113,8 @@ Description for every assignment if needed
 ### Hasanali Nejati: 100, 30, -, 100, - => 51
 - Ex2: Code had none of the mentioned OOP principales implemented. The implementation correctly identifies Equilateral and Right Triangle types, but there's a potential issue with Isosceles.
 
-### Arash Kazemi: 100, 40, -, 100, - => 58
-Ex2: Code had none of the mentioned OOP principales implemented
-
+### Arash Kazemi: 100, 100, -, 100, - => 100
+- WELL DONE
+- 
 ### Sepide Afshoon: 100, 80, -, 100, - => 86
 - Ex2: Code needs better structure. Not all OOP principales used.
