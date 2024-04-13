@@ -39,82 +39,82 @@ Description for every assignment if needed
 ### Weights: 0.1, 0.7, 0.2
 ### Note: Removed 3rd exercise due to most of the class not understanding the problem. Exercise 5 has in class grades so no points are given for it here. 
 
-### MaralFouladi: 100, 100, -, 100, - 
+### Maral Fouladi: 100, 100, -, 100, - => 100
 - Ex2 : An Equilateral Right triangle does not exist because if it's Equilateral then it means all of the sides are equal and the equation a^2 + b^2 = c^2 does not hold
 
-### AmirHasan Shahi: 100, 100, -, 100, - 		
+### AmirHasan Shahi: 100, 100, -, 100, - => 100	
 - WELL DONE
 
-### Alireza Sarhangi: 100, 100, -, 100, - 
+### Alireza Sarhangi: 100, 100, -, 100, - => 100
 - Ex2 : It should check whether it's Isosceles Right Triangle or not and after that if it's not Isosceles Right Triangle , check whether it's Isosceles Triangle or right Triangle 
 - Ex4 : in line 6 we can make the code more optimal if we change ( j < m - 1 ) to ( j < m - i - 1 ) , the code should print out the index of the value if the value was found , instead of printing the value itself
 
-### Maral Gharibi: 100, 100, -, 100, - 
+### Maral Gharibi: 100, 100, -, 100, - => 100
 - Ex1 : we want n rows to be printed on the terminal so it's enough for i to start from 1 instead of 0
 - Ex4 : in line 43 ( mid + 1 ) should be assigned to the variable named left instead of assigning ( mid - 1 ) to it 
 
-### AmirHossein Abdeh: 100, 100, -, 100, - 
+### AmirHossein Abdeh: 100, 100, -, 100, - => 100
 - Ex1 : it only prints ( n-1 ) lines and because of that n doesn't get printed on the last line
 
-### Alireza Monfared: 100, 100, -, 100, - 
+### Alireza Monfared: 100, 100, -, 100, - => 100
 - Ex2 : It should check whether it's Isosceles Right Triangle or not and after that if it's not Isosceles Right Triangle , check whether it's Isosceles Triangle or right Triangle
 - Ex4 : its better to use variables and its functions ( like arr.size() ) instead of just typing in numbers because for example in this question your code will only work with an array that has 10 values  
 
-### AmirHossein Siyamansoury: 100, 100, -, 100, - 
+### AmirHossein Siyamansoury: 100, 100, -, 100, - => 100
 - Ex1 : there is no need for s and we can print ( j+1 ) instead of s ( your code works just fine but its better to not use too much variables if we don't need to )
 - Ex2 : It should check whether it's Isosceles Right Triangle or not and after that if it's not Isosceles Right Triangle , check whether it's Isosceles Triangle or right Triangle
 
-### Mehran Deghat: 100, 100, -, 100, - 
+### Mehran Deghat: 100, 100, -, 100, - => 100
 - Ex2 :  it doesn't handle the case where the sides make Isosceles Right Triangle and it's better to print the strings in english
 - Ex4 : in line 32 it should print out the index that holds the value , which is ( mid ) not ( mid + 1 ) and it's better to use variables and its functions ( like arr.size() ) instead of just typing in numbers because for example in this question your code will only work with an array that has 10 values  
 
-### Nikta Pournabi: 100, 100, -, 100, -  
+### Nikta Pournabi: 100, 100, -, 100, -  => 100
 - WELL DONE
 
-### Reza Raeesi: 100, 0, -, 100, - 
+### Reza Raeesi: 100, 0, -, 100, - => 100
 - Ex4 : its better to use variables and its functions ( like arr.size() ) instead of just typing in numbers because for example in this question your code will only work with an array that has 10 values  
 
-### Ali Peivaste: 100, 100, -, 100, - 
+### Ali Peivaste: 100, 100, -, 100, - => 100
 - Please choose file names that are relevant to the question
 - Well Done
 
-### Ali Bakhsha: 100, 100, -, 100, - 
+### Ali Bakhsha: 100, 100, -, 100, - => 100
 - Ex2 : it prints "ghaem" when the triangle is Isosceles Right or when its only Right triangle therefore it needs else bracket in line 12 to handle the case where the sides make only Right Triangle and not Isosceles Right Triangle and it's better to print the strings in english
 - Ex4 : at the end you should return the result variable which holds the index of the value that was found
 
-### Sarina Ahmadi: 100, 50, -, 0, - 
+### Sarina Ahmadi: 100, 50, -, 0, - => 45
 - Please choose file names that are relevant to the question and send the files in the order of the questions they correspond to
 - Ex2 : it doesn't handle the case where the sides make Equilateral Triangle , the line 13 condition is for checking if we CAN make the triangle out of the given sides , the bracket } in line 17 makes the further codes to not be in the function therefore resulting in an error , there is no need for ( return; ) in line 16 and the elseif in line 18 should be replaced with if 
 - Ex4 : i didn't find the file for this assignment 
 
-### Shayan JafarPour: 100, 100, -, 100, - 
+### Shayan JafarPour: 100, 100, -, 100, - => 100
 - Ex1 : square root of x means √x and x in the power of 2 means x^2 , in java the AND symbol is && , in this example we cant just persume the values are sorted we should either sort them or handle all the cases with diffrent values that sides can get
 - Ex4 : in line 7 we can make the code more optimal if we change ( j < size - 1 ) to ( j < size - i - 1 )
 
-### Abdul Aziz Halimi: 100, 70, -, 100, - 
+### Abdul Aziz Halimi: 100, 70, -, 100, - => 79
 - Ex3 : Incomplete implementation with logic errors, lacking string return for triangle type and inconsistent output messages.
 
-### Mohhammad Fakhrai: 100, 80, -, 100, -
+### Mohhammad Fakhrai: 100, 80, -, 100, - => 86
 - Ex2 :In the 'typeDefine' method, it's defined to return the type of triangle as a string instead of directly printing it.
 
-### Mohammad Hadi Amiran: 100, 100, -, 100, -
+### Mohammad Hadi Amiran: 100, 100, -, 100, - => 100
 - Well Done
 
-### Firouzeh Raygan: 100, 30, -, 100, -
+### Firouzeh Raygan: 100, 30, -, 100, - => 51
 - Correct files were not sent and grade is based on code seen in class
 - Ex2: Code in awfully structured
 
-### Alireza Ghotbi: 100, 40, -, 100, -
+### Alireza Ghotbi: 100, 40, -, 100, - => 58
 - Ex2: Code had none of the mentioned OOP principales implemented
 
-### Arman Payan: 100, 100, -, 100, -
+### Arman Payan: 100, 100, -, 100, - => 100
 - WELL DONE
 
-### Hasanali Nejati: 100, 30, -, 100, -
+### Hasanali Nejati: 100, 30, -, 100, - => 51
 - Ex2: Code had none of the mentioned OOP principales implemented. The implementation correctly identifies Equilateral and Right Triangle types, but there's a potential issue with Isosceles.
 
-### Arash Kazemi: 100, 40, -, 100, -
+### Arash Kazemi: 100, 40, -, 100, - => 58
 Ex2: Code had none of the mentioned OOP principales implemented
 
-### Sepide Afshoon: 100, 80, -, 100, -
+### Sepide Afshoon: 100, 80, -, 100, - => 86
 - Ex2: Code needs better structure. Not all OOP principales used.
