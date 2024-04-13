@@ -103,3 +103,18 @@ Description for every assignment if needed
 ### Firouzeh Raygan: 100, 30, -, 100, -
 - Correct files were not sent and grade is based on code seen in class
 - Ex2: Code in awfully structured
+
+### Alireza Ghotbi: 100, 40, -, 100, -
+- Ex2: Code had none of the mentioned OOP principales implemented
+
+### Arman Payan: 100, 100, -, 100, -
+- WELL DONE
+
+### Hasanali Nejati: 100, 30, -, 100, -
+- Ex2: Code had none of the mentioned OOP principales implemented. The implementation correctly identifies Equilateral and Right Triangle types, but there's a potential issue with Isosceles.
+
+### Arash Kazemi: 100, 40, -, 100, -
+Ex2: Code had none of the mentioned OOP principales implemented
+
+### Sepide Afshoon: 100, 80, -, 100, -
+- Ex2: Code needs better structure. Not all OOP principales used.
